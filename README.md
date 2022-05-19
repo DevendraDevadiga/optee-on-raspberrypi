@@ -1,5 +1,13 @@
 # OP-TEE 3.15 on Raspberry Pi 3B
 OP-TEE 3.15 is tested on Raspberry PI 3B. The tested binaries are provideed.
+Refer this article for more information:
+
+https://bit.ly/3Kh2dRT
+
+Also provided video about OP-TEE:
+
+https://youtube.com/playlist?list=PLrwOamjP8JAKZ3hIdH1z3hxvYSq7XoI8d
+
 
 Download the binaries from git
 ```ruby 
